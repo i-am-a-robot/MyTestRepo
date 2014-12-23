@@ -1,4 +1,5 @@
 1 this is line 1
-2 this is line 2
+2 modified version this is line 2
+2a this is line 2a
 3 this is line 3
 4 this is line 4
