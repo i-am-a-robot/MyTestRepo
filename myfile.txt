@@ -3,4 +3,5 @@
 2a this is line 2a
 3 this is line 3
 4 this is line 4
+4a a git fetch test
 5 this is line 5 push test
