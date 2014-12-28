@@ -1,11 +1,16 @@
 1 this is line 1
+
 2 modified version this is line 2
 2a this is line 2a
+
 3 this is line 3
+
 4 this is line 4
 yes this is from the branch
 4b new branch chapter-two changes here
+
 5 this is line 5 push test
+
 6 new branch chapter-two changes here
 more lines here
 
